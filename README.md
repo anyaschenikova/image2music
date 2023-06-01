@@ -4,7 +4,7 @@ Welcome to the repository for the thesis project, "Poetry and Music Generation f
 
 ## Music Generation Model
 
-Our music generation model has been developed by fine-tuning the concatenation of two pre-trained models: ViT and Bart. Bart has been specifically fine-tuned for generating music from text. 
+Music generation model has been developed by fine-tuning the concatenation of two pre-trained models: ViT and Bart. Bart has been specifically fine-tuned for generating music from text. 
 
 The model can be accessed through the following link:
 - [AnyaSchen/image2music](https://huggingface.co/AnyaSchen/image2music)
